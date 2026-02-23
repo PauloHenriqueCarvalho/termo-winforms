@@ -1,0 +1,10 @@
+C:\Users\Senai\Documents\NetBeansProjects\Termo\bin\Debug\Termo.exe.config
+C:\Users\Senai\Documents\NetBeansProjects\Termo\bin\Debug\Termo.exe
+C:\Users\Senai\Documents\NetBeansProjects\Termo\bin\Debug\Termo.pdb
+C:\Users\Senai\Documents\NetBeansProjects\Termo\obj\Debug\Termo.csproj.AssemblyReference.cache
+C:\Users\Senai\Documents\NetBeansProjects\Termo\obj\Debug\Termo.Form1.resources
+C:\Users\Senai\Documents\NetBeansProjects\Termo\obj\Debug\Termo.Properties.Resources.resources
+C:\Users\Senai\Documents\NetBeansProjects\Termo\obj\Debug\Termo.csproj.GenerateResource.cache
+C:\Users\Senai\Documents\NetBeansProjects\Termo\obj\Debug\Termo.csproj.CoreCompileInputs.cache
+C:\Users\Senai\Documents\NetBeansProjects\Termo\obj\Debug\Termo.exe
+C:\Users\Senai\Documents\NetBeansProjects\Termo\obj\Debug\Termo.pdb
